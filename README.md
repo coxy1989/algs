@@ -17,19 +17,19 @@ This repository contains python implementations of a handful of statistical lear
 4. `jupyter notebook`
 
 ### Run the notebooks
-- [Linear Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_regression.ipynb)
-- [Logistic Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
-- [Linear Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
-- [Quadratic Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
-- [K-Fold Cross Validation](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
-- [The Bootstrap](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/bootstrap.ipynb)
-- [Best Subset Selection](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
-- [Forward and Backward Stepwise Selection](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/stepwise_selection.ipynb)
-- [Ridge Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/ridge_regression.ipynb)
-- [Trees, Bagging, Random Forests and Boosting](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/trees.ipynb)
-- [Perceptron](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/rosenblatt_perceptron.ipynb)
-- [PCA](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/pca.ipynb)
-- [K-Means](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/k_means.ipynb)
+- [Linear Regression](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/linear_regression.ipynb)
+- [Logistic Regression](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/logistic_regression.ipynb)
+- [Linear Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/linear_discriminant_analysis.ipynb)
+- [Quadratic Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/quadratic_discriminant_analysis.ipynb)
+- [K-Fold Cross Validation](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/cross_validation.ipynb)
+- [The Bootstrap](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/bootstrap.ipynb)
+- [Best Subset Selection](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/best_subset_selection.ipynb)
+- [Forward and Backward Stepwise Selection](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/stepwise_selection.ipynb)
+- [Ridge Regression](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/ridge_regression.ipynb)
+- [Trees, Bagging, Random Forests and Boosting](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/trees.ipynb)
+- [Perceptron](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/rosenblatt_perceptron.ipynb)
+- [PCA](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/pca.ipynb)
+- [K-Means](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/k_means.ipynb)
 
 
 ## References

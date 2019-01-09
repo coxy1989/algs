@@ -24,9 +24,9 @@ This repository contains python implementations of a handful of statistical lear
 - [Best Subset Selection](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/best_subset_selection.ipynb)
 - [Forward and Backward Stepwise Selection](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/stepwise_selection.ipynb)
 - [Ridge Regression](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/ridge_regression.ipynb)
-- [Trees, Bagging, Random Forests and Boosting](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/algorithms/trees.ipynb)
+- [Trees, Bagging, Random Forests and Boosting](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/trees.ipynb)
 - [Perceptron](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/rosenblatt_perceptron.ipynb)
-- [PCA](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/algorithms/pca.ipynb)
+- [PCA](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/pca.ipynb)
 - [K-Means](https://nbviewer.jupyter.org/github/coxy1989/algs/blob/master/k_means.ipynb)
 
 

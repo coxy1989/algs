@@ -2,6 +2,8 @@
 
 This repository contains python implementations of a handful of statistical learning algorithms that appear in *An Introduction to Statistical Learning* [1] and *The Elements of Statistical Learning* [2].
 
+<img src="./algs.jpg" alt="algs" width="50%"/>
+
 ## Quickstart
 
 1. `git clone git@github.com:coxy1989/algs.git`
